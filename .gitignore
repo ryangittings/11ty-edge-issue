@@ -1,0 +1,11 @@
+# Netlify generated stuff
+.netlify/
+
+# Eleventy Edge Build Data files
+netlify/edge-functions/_generated
+
+# Output
+_site/**
+
+# Output
+node_modules/**
